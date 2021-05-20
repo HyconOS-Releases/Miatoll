@@ -1,5 +1,11 @@
 # Changelog for Redmi Note 9S / 9 Pro / Pro Max  PocoM2Pro (miatoll)
 
+## HyconOS V3.0 - 20/05/2021
+- Switch to perf+ kernel
+- Update to Redfin's May FP & Desc
+- Switch to prebuilt audio and perf HAL
+- Fixes and improvements
+
 ## HyconOS V2.5 - 25/04/2021
 - Etharius Kernel upstreamed to 4.14.231 and more
 - Fixed network delay on reboot
