@@ -1,5 +1,13 @@
 # Changelog for Redmi Note 9S / 9 Pro / Pro Max  PocoM2Pro (miatoll)
 
+## HyconOS V3.5 - 19/06/2021
+- Switch to Etherious kernel
+- Update to Redfin's June FP & Desc
+- Added Alipay fingerprint payment support
+- Dyanamically load widevine blobs (Fixes widevine L1 OOTB of non curtana users, credits Ramisky)
+- Dropped Hotword Enrollment blobs
+- Fixes and improvements
+
 ## HyconOS V3.0 - 20/05/2021
 - Switch to perf+ kernel
 - Update to Redfin's May FP & Desc
