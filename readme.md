@@ -2,7 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/miatoll/v3.5/total.svg)](https://GitHub.com/Hycon-Releases/miatoll/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/miatoll/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/miatoll/releases)
 
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/miatoll/v3.0/total.svg)](https://GitHub.com/Hycon-Releases/miatoll/releases)
