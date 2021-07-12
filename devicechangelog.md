@@ -1,5 +1,12 @@
 # Changelog for Redmi Note 9S / 9 Pro / Pro Max  PocoM2Pro (miatoll)
 
+## HyconOS v4.0 - 12/07/2021
+
+- Update to Redfin's June FP & Desc
+- Updated to latest Etherious kernel 4.14.238-Etherious-LA.UM.9.1.r1-10600.SMxxx0.0
+- Camera GO as default 
+
+
 ## HyconOS V3.5 - 19/06/2021
 - Switch to Etherious kernel
 - Update to Redfin's June FP & Desc
