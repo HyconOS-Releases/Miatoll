@@ -1,5 +1,13 @@
 # Changelog for Redmi Note 9S / 9 Pro / Pro Max  PocoM2Pro (miatoll)
 
+## HyconOS v4.0 - 29/08/2021
+
+- Update to Redfin's Aug FP & Desc
+- Updated to latest Etherious kernel 4.14.245
+- Dropped AOD overlays 
+- Camera GO
+- Fixes and improvements
+
 ## HyconOS v4.0 - 12/07/2021
 
 - Update to Redfin's June FP & Desc
