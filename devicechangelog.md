@@ -1,6 +1,13 @@
 # Changelog for Redmi Note 9S / 9 Pro / Pro Max  PocoM2Pro (miatoll)
 
-## HyconOS v4.0 - 29/08/2021
+## HyconOS v4.5.1 - 10/09/2021
+
+- Update to Redfin's Sep FP & Desc
+- Lightning kernel by default
+- Removed L1 hacks
+- Improve Fingerprint unlocking speed
+- CameraGo by default 
+## HyconOS v4.5 - 29/08/2021
 
 - Update to Redfin's Aug FP & Desc
 - Updated to latest Etherious kernel 4.14.245
